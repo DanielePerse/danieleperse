@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieleperse3@gmail.com)](mailto:danieleperse3@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/danieleperse/)](https://www.instagram.com/danieleperse/)
 
-### Hellooo! Welcome to my profile :blush:
+### Welcome to my profile :blush:
 
 My name is Daniele and I'm software development student. :school: 
 
