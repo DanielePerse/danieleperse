@@ -14,7 +14,7 @@ I believe that technology is present in all areas and with it we have the possib
  - :deciduous_tree: I like nature, practice crossfit and being with family and friends
  - :heart: In love with finance and programing
  - :blue_book: Currently learning to become a full-stack developer
- - :heavy_check_mark: ShellScript, html, css, javascript, React, Agile, Sql, MongoDB 
+ - :heavy_check_mark: ShellScript, html, css, javascript, React, Agile, Sql, MongoDB, NodeJS 
 
 <br/>
 
